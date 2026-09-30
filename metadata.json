@@ -1,0 +1,6 @@
+{
+  "name": "صندوق همیار",
+  "description": "مدیریت هوشمند و عادلانه صندوق‌های خانوادگی و قرعه‌کشی با تضمین سود همه اعضا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
